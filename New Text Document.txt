@@ -1,0 +1,8 @@
+Group 1: EDA done  --> done --> depolyment, ppt done
+Group 2: EDA done  --> done --< deployment done --> ppt done
+
+Group 3: EDA done  --> done  --> model done -> deployment done ,ppt done--> good one 
+Group 4: EDA done  --> done --> -> deployment done --> ppt done
+
+Group 5: EDA done --> viashnavi  --> deployment done --> ppt done
+Group 6: EDA done --> Mugdtha  --> -> deployment done
